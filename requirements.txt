@@ -1,0 +1,10 @@
+pandas
+numpy
+onnxruntime
+streamlit
+scikit-learn
+scipy
+wfdb
+matplotlib
+Flask
+torch
